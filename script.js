@@ -59,3 +59,4 @@ switch(randomNum) {
         console.log("defalt");
 }
 
+
